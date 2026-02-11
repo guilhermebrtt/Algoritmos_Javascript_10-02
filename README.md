@@ -1,7 +1,7 @@
 # Algoritmos_Javascript_10-02
 Lista 02 - Introdução ao JavaScript 
 
-* 1. Cadastro de Local e Nascimento 
+## 1. Cadastro de Local e Nascimento 
 Crie um programa que contenha:
 
 - ✅ Um campo para inserir a Cidade Natal
@@ -11,8 +11,7 @@ Crie um programa que contenha:
 "Você nasceu na cidade de X em Y"
 (onde X é a cidade informada e Y o ano de nascimento)
 
-
-* 2. Calculadora de Peso e Altura 
+## 2. Calculadora de Peso e Altura 
 Crie uma página que solicite ao usuário:
 
 - ✅ Um campo para inserir o Peso
@@ -24,7 +23,7 @@ Crie uma página que solicite ao usuário:
 
 
 
-* 3. Futebol 
+## 3. Futebol 
 Crie uma página que solicite ao usuário:
 
 - ✅ Um campo para inserir o Nome do Time
@@ -36,7 +35,7 @@ Crie uma página que solicite ao usuário:
 
 
 
-* 4. Onde Eu Moro 
+## 4. Onde Eu Moro 
 Crie uma página que solicite ao usuário:
 
 - ✅ Um campo para inserir o Nome da Rua/Avenida/Vila
@@ -49,7 +48,7 @@ Crie uma página que solicite ao usuário:
 
 
 
-* 5. Opinião da mãe e da avó 
+## 5. Opinião da mãe e da avó 
 Crie um programa que:
 
 - ✅ Tenha um campo para inserir a sua nota na escola
@@ -59,7 +58,7 @@ Crie um programa que:
 - ✅ Ao clicar num botão "opinião da mãe", abaixo dos botões, exibir "Não fez mais que tua obrigação com essa nota X".
 (Onde X é a nota que ele digitou.)
 
-* 6. Farol 
+## 6. Farol 
 Crie um programa que:
 
 - ✅ Tenha três botões: "Pare", "Pense" e "Siga".
